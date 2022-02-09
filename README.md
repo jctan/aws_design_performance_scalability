@@ -1,8 +1,7 @@
-# Cloud Developer ND Course 2: Design for Performance and Scalability
+# Cloud Developer ND: Design for Performance and Scalability
 
 ---
 
-## Project  Instructions
 
 ### Exercise 1
 
