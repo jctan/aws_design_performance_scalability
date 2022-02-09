@@ -10,8 +10,8 @@
    * AWS as the cloud provider
    * Use an existing VPC ID
    * Use an existing public subnet
-   * 4 AWS t2.micro EC2 instances named Udacity T2
-   * 2 m4.large EC2 instances named Udacity M4
+   * 4 AWS t2.micro EC2 instances named T2
+   * 2 m4.large EC2 instances named M4
 3. Run Terraform. 
 4. Take a screenshot of the 6 EC2 instances in the AWS console and save it as `Terraform_1_1`. 
 5. Use Terraform to  delete the 2 m4.large instances 
