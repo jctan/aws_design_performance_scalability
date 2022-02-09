@@ -1,4 +1,4 @@
-# Cloud Developer ND: Design for Performance and Scalability
+# AWS Design for Performance and Scalability
 
 ---
 
@@ -13,9 +13,9 @@
    * 4 AWS t2.micro EC2 instances named T2
    * 2 m4.large EC2 instances named M4
 3. Run Terraform. 
-4. Take a screenshot of the 6 EC2 instances in the AWS console and save it as `Terraform_1_1`. 
+4. Screenshot of the 6 EC2 instances in the AWS console and save it as `Terraform_1_1`. 
 5. Use Terraform to  delete the 2 m4.large instances 
-6. Take an updated screenshot of the AWS console showing only the 4 t2.micro instances and save it as `Terraform_1_2`
+6. Updated screenshot of the AWS console showing only the 4 t2.micro instances and save it as `Terraform_1_2`
 
 ### Exercise 2
 
@@ -26,5 +26,5 @@
    * An outputs.tf file
    * A variables.tf file with an AWS region
   
-2. Take a screenshot of the EC2 instances page
-3. Take a screenshot of the VPC page 
+2. screenshot of the EC2 instances page
+3. screenshot of the VPC page 
